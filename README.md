@@ -1,2 +1,2 @@
-This is assignment of coding blocks
-Data Structure and algorithms(DSA)
+# This assignment of coding blocks 
+## DSA(DATA STRUCTURE AND ALGORITHMS)
